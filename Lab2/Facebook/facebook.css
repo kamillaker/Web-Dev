@@ -1,0 +1,160 @@
+body{
+    background-image: linear-gradient( #f0f2f5 720px, white 250px);
+    color: #1c1e21;
+    direction: ltr;
+    line-height: 1.34;
+    margin: 0;
+    padding: 0;
+    unicode-bidi: embed; 
+}
+
+img{
+    height: 108px;
+    margin-left:-30px;
+    margin-bottom: -40px;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.niz{
+    height: 250px;
+    color: #8a8d91;
+    font-family: inherit;
+    align-items: center;
+    margin-left:350px;
+    margin-top:75px;
+}
+li span:hover {
+    text-decoration: underline;
+}
+
+
+li{
+    
+    font-size: 12px;
+    text-decoration: none;
+    white-space: nowrap;
+    cursor: pointer;
+    border-width: 0 0 0 1px;
+    display: inline;
+    margin-left: 10px;
+
+}
+
+.back{
+    height: 90px;
+    width:780px;
+    font-size: 14px;
+    margin-top:15px;
+}
+.last{
+    font-size: 11px;
+    margin-left: 8px;
+    font-weight:bolder;
+    font-family: inherit;
+}
+.curve{
+    border-bottom: 1px solid #dddfe2;
+    font-size: 1px;
+    height: 8px;
+    margin-bottom: 8px;
+    color: #737373;
+    margin-top:5px;
+    width: 980px;
+}
+
+.base{
+    display:flex;
+    margin-left: 350px;
+    margin-top: 176px;
+    height: 500px;
+
+}
+.Forgot-a-password {
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    color: #1877f2;
+}
+
+.otstup{
+    margin-top:35px;
+    font-family: SFProText-Semibold, Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    
+}
+form{
+    width: 360px;
+    height:290px;
+    padding: 10px;
+    padding-top: 17px;
+    padding-bottom: 10px;
+    border-radius: 3%;
+    box-shadow: 0 0 8px rgb(199, 199, 199);
+    background: white;
+}
+
+
+input[type="text"],
+input[type="password"]{
+    width: 330px;
+    padding: 10px;
+    margin-top:-5px;
+    border-radius: 6px;
+    font-size: 17px;
+    opacity: 80%;
+    border: 1px solid #dddfe2;
+}
+hr{
+    width: 99%;
+    opacity: 30%;
+}
+.inputs{
+    margin-top: -40px;
+    margin-left: 83px;
+    text-align: center;
+}
+a{ 
+    cursor: pointer;
+    font-family:inherit;
+    text-decoration: none;
+
+}
+input[type="submit"]{
+    margin-top:-25px;
+    
+}
+.button{
+    background-color: #1877f2;
+    border: none;
+    color: white;
+    padding: 10px 147px;
+    font-size: 20px;
+    border-radius: 8px;
+    font-weight:bolder;
+    margin-top:5px;
+    margin-bottom:10px;
+}
+.button2{
+    background-color: #4CAF50;
+    border: none;
+    color:white;
+    border-radius: 6px;
+    font-size: 16px;
+    line-height: 48px;
+    width: 220px;
+    font-weight:bolder;
+    margin-top:10px;
+    margin-bottom:2px;
+}
+.font{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+    
+}
