@@ -1,0 +1,24 @@
+
+h2 {
+  margin: 0;
+  padding: 13px;
+}
+.head{
+  padding-left: 20px;
+  display: block;
+  background-color: #d0d6e3;
+  height: 150px;
+  color: #6a8bd3;
+  font-size: 20px;
+}
+button{
+  width: 200px;
+  height: 40px;
+  margin-right: 20px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  color: #6a8bd3;
+  border-color:  #ffffff;
+}
+
+
