@@ -1,0 +1,9 @@
+<h1>Albums</h1>
+<ul>
+  @for (album of albums; track album.id) {
+    <li>
+      <a [routerLink]="['/albums', album.id]">{{album.title}}</a>
+      <button (click)="deleteAlbum(album.id)">Delete</button>
+    </li>
+  }
+</ul>
